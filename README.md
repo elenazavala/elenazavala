@@ -6,7 +6,7 @@ I think that art is an essential investment in STEM and innovation, and I have a
 
 Crossovering these creative skills and passions with my love for technology, innovation, research and science is what I enjoy doing. I aim to be an exemplar of someone that is capable of merging the magic of computer science with their artistic/creative avocations.
 
-I’m currently learning web development and game development, using React.js and Unity! 
+I’m currently learning web and game development, using React.js and Unity! 
 
 
 <!--
