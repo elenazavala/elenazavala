@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Elena, a compSci student from Asuncion, Paraguay at the University of Kansas! I love igniting 🔥  my creative side by turning science and technology into an art. I think that art is an essential investment in STEM and innovation, and I have always had a passion for creative practices such as dance, the movie & film industry and digital art. My goal has always been to crossover my artistic avocations with my love for science and technology.
+I'm Elena, a compSci student from Asuncion, Paraguay at the University of Kansas! I love 🔥 igniting 🔥  my creative side by turning science and technology into an art. 
+I think that art is an essential investment in STEM and innovation, and I have always had a passion for creative practices such as dance, the movie & film industry and digital art. My goal has always been to crossover my artistic avocations with my love for science and technology.
 
 
 
