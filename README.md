@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i'm Elena, a compSci student from 🇵🇾 at KU! I ❤️ igniting my creative self by turning science and technology into an art. 
+i'm Elena, a compSci student from 🇵🇾 at KU! I love igniting my creative self by turning science and technology into an art. 
 
 I think that art is an essential investment in STEM and innovation, and I have always had a passion for creative practices such as dance, the movie & film industry and digital art. I aim to be an exemplar of someone that is capable of merging the magic of computer science with their artistic avocations and passions
 
