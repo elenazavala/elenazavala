@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-I'm Elena, a senior compSci student. I love igniting my creative side by turning science and technology into an art. 
+I'm Elena, a senior compSci student. I enjoy igniting my creative side by turning science and technology into an art. 
 
 I think that art is an essential investment in STEM and innovation, and I have always had a passion/interest for creative practices such as dance, the film industry, digital art, paintings and architecture. 
 
