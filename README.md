@@ -1,4 +1,4 @@
-### ✨ Hi there ✨
+### Hi there ✨
 
 I'm Elena, a senior compSci student. I love igniting my creative side by turning science and technology into an art. 
 
