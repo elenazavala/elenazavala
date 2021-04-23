@@ -2,9 +2,9 @@
 
 I'm Elena, a senior compSci student. I enjoy igniting my creative side by turning science and technology into an art. 
 
-I aim to be an exemplar of someone that is capable of merging the magic of computer science and technology with creative, beautiful and unique artistic productions.
+I aim to be an exemplar of someone that is capable of merging the magic of computer science and technology with creative, beautiful and unique artistic productions.Crossovering my creative skills and passions with my love for technology, innovation, research and science is what I enjoy doing.
 
-Crossovering my creative skills and passions with my love for technology, innovation, research and science is what I enjoy doing. I think that art is an essential investment in STEM and innovation, and I have always had a passion/interest for creative practices such as the film and video game industry, digital art, paintings, dance and architecture. 
+I think that art is an essential investment in STEM and innovation, and I have always had a passion/interest for creative practices such as the film and video game industry, digital art, paintings, dance, music and architecture. 
 
 - 🔭 " Sometimes science is more art than science ... "
 
