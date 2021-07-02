@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-I'm Elena, a senior CompSci student from 🇵🇾. I enjoy igniting my creative side by turning science and technology into an art. I like merging the magic of computer science and technology with creative, beautiful and unique artistic productions. Always trying to find ways to crossover my creative skills and passions with my love for technology, innovation, research and science c: 
+I'm Elena, a senior CompSci student from 🇵🇾. I enjoy igniting my creative side by turning science and technology into an art. I like merging the magic of computer science and technology with creative, beautiful and unique artistic productions. Currently trying to find new ways to crossover my creative skills and passions with my love for technology, research and science c: 
 
 - 🔭 " Sometimes science is more art than science ... "
 
