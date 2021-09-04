@@ -2,7 +2,7 @@
 
 I'm Elena, a senior CompSci student from 🇵🇾 who aspires to become a Software Engineer. I enjoy igniting my creative side by turning science and technology into an art, while merging the magic of computer science with creative, beautiful and unique productions. 
 
-Sometimes science is more art than science.. 🤟
+Sometimes science is more art than science 🤟
 
 
 
