@@ -1,7 +1,7 @@
 ### Hi there ✨
 
 I'm Elena, a Software Engineer from Paraguay 🇵🇾 . I enjoy igniting my creative side by turning science and technology into an art, while merging the magic of computer science with creative, beautiful and unique productions. 
-Sometimes science is more art than science.
+
 
 
 
