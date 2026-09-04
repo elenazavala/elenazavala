@@ -21,8 +21,8 @@ I have experience building full-stack web applications and digital products acro
   <a href="https://www.linkedin.com/in/elena-zavala-0a39741b9/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
       alt="LinkedIn"
     />
   </a>
