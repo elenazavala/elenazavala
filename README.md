@@ -1,6 +1,6 @@
-## Hi there, I'm Elena ✨
+## Hi there ✨
 
-I'm Software Engineer from Paraguay 🇵🇾. I enjoy exploring my creative side by turning science and technology into art, merging the magic of technology with beautiful and unique experiences.
+I'm Elena, a Software Engineer from Paraguay 🇵🇾. I enjoy exploring my creative side by turning science and technology into art, merging the magic of technology with beautiful and unique experiences.
 
 I have experience building full-stack web applications and digital products across FinTech and other industries, with a strong focus on Front-End development, modern web technologies, and backend systems.
 
